@@ -1,7 +1,7 @@
 # Sequelize-TypeScript-Init
 This is a code sample of initialization of Sequelize v.7 ORM used with TypeScript.
 ## Overview
-This porject consists of:
+This project consists of:
 1. Node.ts server
 2. Sequelize v.7 ORM
 3. SQLite db
